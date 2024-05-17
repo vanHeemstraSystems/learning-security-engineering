@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+learning-security-engineering
+# Learning Security Engineering
 
-Based on "ABC" at https://www.abc.com/
+Based on "What is Security Engineering? Part 1." at https://newsletter.pragmaticengineer.com/p/security-engineering
+
+Based on "What is Security Engineering? Part 2." at https://newsletter.pragmaticengineer.com/p/security-engineering-part-2
 
 ## 100 - Introduction
 
