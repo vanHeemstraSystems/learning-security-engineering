@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-security-engineering/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-security-engineering/actions/workflows/publish.yml)
+
 learning-security-engineering
 # Learning Security Engineering
 
