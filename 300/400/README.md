@@ -2,7 +2,7 @@
 
 Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
-![Learning-Cloud-Security_User-Stories](https://github.com/vanHeemstraSystems/learning-security-engineering/assets/1499433/aa608a9e-ef59-4574-b070-2768fc25adea)
+![Learning-Security-Engineering_User-Stories](https://github.com/vanHeemstraSystems/learning-security-engineering/assets/1499433/58a403a3-a6bf-4abf-bd1b-70f79dd7973d)
 
 Security Engineering
 
