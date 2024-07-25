@@ -19,6 +19,8 @@ Based on "What is Security Engineering? Part 1." at https://newsletter.pragmatic
 
 Based on "What is Security Engineering? Part 2." at https://newsletter.pragmaticengineer.com/p/security-engineering-part-2
 
+Based on "Cutting to the chase: Security Design and Guidance at scale" at https://www.youtube.com/watch?v=-6sx8HVzVKA&t=9s
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
